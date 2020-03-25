@@ -1,0 +1,146 @@
+[
+  {
+    "yargi" : "Ceza",
+    "id"      :1,
+    "mahkeme": "Ağır Ceza Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "mahkeme": "Asliye Ceza Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id" :2,
+    "mahkeme": "Ağır Ceza Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id" :3,
+    "mahkeme": "Bölge Adliye Mahk. Ceza Dairesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id" : 4,
+    "mahkeme": "Çocuk Ağır Ceza Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id" : 5,
+    "mahkeme": "Çocuk Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id" : 6,
+    "mahkeme": "Fıkri ve Sınai Haklar Ceza Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id":7,
+    "mahkeme": "İcra Ceza Hakimliği"
+  },
+  {
+    "yargi" : "Ceza",
+    "id":8,
+    "mahkeme": "İnfaz Hakimliği"
+  },
+  {
+    "yargi" : "Ceza",
+    "id":9,
+    "mahkeme": "Trafik Mahkemesi"
+  },
+  {
+    "yargi" : "Ceza",
+    "id":10,
+    "mahkeme": "Yargıtay Ceza Dairesi (İlk derece)"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":11,
+    "mahkeme": "Aile Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":12,
+    "mahkeme": "Asliye Hukuk Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":13,
+    "mahkeme": "Asliye Ticaret Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":14,
+    "mahkeme": "Bölge Adliye Mahk. Ceza Dairesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":15,
+    "mahkeme": "Denizcilik İhtisas Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":16,
+    "mahkeme": "Fıkri ve Sınai Haklar Ceza Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":17,
+    "mahkeme": "İcra Hukuk Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":18,
+    "mahkeme": "İş Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":19,
+    "mahkeme": "Kadastro Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":20,
+    "mahkeme": "Kadastro Mahkemesi(Müs)"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":21,
+    "mahkeme": "Sulh Hukuk Mahkemesi"
+  },
+  {
+    "yargi" : "Hukuk",
+    "id":22,
+    "mahkeme": "Tüketici Mahkemesi"
+  },
+  {
+    "yargi" : "İcra",
+    "id":23,
+    "mahkeme": "İcra Dairesi"
+  },
+  {
+    "yargi" : "İdari Yargı",
+    "id":24,
+    "mahkeme": "Bölge İdare Mahkemesi"
+  },
+  {
+    "yargi" : "İdari Yargı",
+    "id":25,
+    "mahkeme": "İdare Mahkemesi"
+  },
+  {
+    "yargi" : "İdari Yargı",
+    "id":26,
+    "mahkeme": "Vergi Mahkemesi"
+  },
+  {
+    "yargi" : "Satış Memurluğu",
+    "id":27,
+    "mahkeme": "Satış Memurluğu"
+  },
+  {
+    "yargi" : "Arabuluculuk",
+    "id":28,
+    "mahkeme": "Arabuluculuk Merkezi"
+  }
+]
